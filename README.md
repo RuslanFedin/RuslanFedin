@@ -38,7 +38,6 @@
 </details>
 
 <br />
-<br />
 
 <details>
   <summary>:zap: About me:</summary>
