@@ -39,9 +39,6 @@
 
 <br />
 
-<details>
-  <summary>:zap: About me:</summary>
-</details>
 
 
 [linkedin]: https://www.linkedin.com/in/ruslan-fedin-19aa5a105
