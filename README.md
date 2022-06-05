@@ -37,6 +37,13 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RuslanFedin&show_icons=true" />
 </details>
 
+<br />
+<br />
+
+<details>
+  <summary>:zap: About me:</summary>
+</details>
+
 
 [linkedin]: https://www.linkedin.com/in/ruslan-fedin-19aa5a105
 [instagram]: https://www.instagram.com/silkcloth
