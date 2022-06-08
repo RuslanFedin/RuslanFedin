@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=RuslanFedin)
 
 ## I'm a FrontEnd Developer and Engineer
-- 💪 I like to write code
+- 💪 I like to develope useful tools
 - 🎉 I love to make design and ride the bicycle
 - 🥅 I am constantly learning new things
 - ❤️ I want to develop educational platforms or an industrial Internet of things.
